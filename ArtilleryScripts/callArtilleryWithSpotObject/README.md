@@ -2,7 +2,7 @@
 Originally I found this script from White Raven's Youtube channel. Here is the video link: https://www.youtube.com/watch?app=desktop&v=LmuC0ur1NyY
 
 ## Setup
-* You need one or more artillery unit(s) be it mortar, SPG or MLRS units with the variable name of your choice.
+* You need one or more artillery unit(s) be it mortar, SPG or MLRS units in range of the target with the variable name of your choice.
 * Trigger with radio activation.
 * Trigger's onActivation script added to it and change the variables in the array to match your artillery units.
 * Change the salvo lenght in the callArtillery.sqf to your liking, I had 30 as that was the max ammunition of my artillery unit (CUP mod MLRS RM70 CUP_B_RM70_CZ)
