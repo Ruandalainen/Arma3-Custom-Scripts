@@ -1,4 +1,4 @@
-# Arma3-Custom-Scripts
+# Arma3 Custom Scripts
 This repository was made to host my custom scripts for making scenarios in Arma 3
 
 ## Scripts included
