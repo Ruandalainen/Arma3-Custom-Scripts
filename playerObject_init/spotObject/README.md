@@ -11,7 +11,7 @@ Like stated in the requirements section, you need to change either your playable
 
 ## Example pictures of the setup:
 In this example the playable object is named "me" and is just a random unit with binoculars and the script added to the init field.
-![Image showing the setup of the action](spotObjectSetup.jpg)
+![Image showing the setup of the action](spotObjectSetup.png)
 
 ## Example pictures of the action:
 Before executing the action:
