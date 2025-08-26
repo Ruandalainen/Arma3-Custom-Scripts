@@ -1,4 +1,4 @@
-# ScoutObject
+# SpotObject
 Adds scroll wheel menu action that let's the player to "scout" object under cursor (middle of the screen). The scouted object is generic typeOf object and is shown at the bottom of the screen.
 Uses "cursorObject", "if" statements and "titleText" to show the object that is under the cursor.
 
