@@ -1,4 +1,4 @@
-# CallArtilleryWithSpotObject
+# Call artillery with spotObject
 Originally I found this script from White Raven's Youtube channel. Here is the video link: https://www.youtube.com/watch?app=desktop&v=LmuC0ur1NyY
 
 ## Things I changed to work with my setup that used spotObject script to set the position for the strike
