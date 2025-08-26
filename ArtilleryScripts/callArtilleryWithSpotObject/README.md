@@ -7,6 +7,11 @@ Originally I found this script from White Raven's Youtube channel. Here is the v
 * Trigger's onActivation script added to it and change the variables in the array to match your artillery units.
 * Change the salvo lenght in the callArtillery.sqf to your liking, I had 30 as that was the max ammunition of my artillery unit (CUP mod MLRS RM70 CUP_B_RM70_CZ)
 
+## Procedure
+* Spot the wanted object with spotObject action.
+* Call Radio defined in the trigger (mine was Alpha).
+* Watch and enjoy the bombardment.
+
 ## Things I changed to work with my setup that used spotObject script to set the position for the strike
 * In the callArtillery.sqf:
   * _trg = getPosATL latestSpot;
