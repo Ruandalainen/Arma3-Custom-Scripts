@@ -12,7 +12,7 @@ Like stated in the requirements section, you need to change either your playable
 ## How to add something "more" to this script
 I tested adding a variable to be changed to 'true' after spotting a tank for example. That would allow me to add a task which has the variable of spotting a tank to be the completion condition.
 
-Other thing I tested is adding Artillery support via trigger using radio activation. That worked on some artillery units not all. Maybe there was a problem in the code somewhere which caused some of them to not work. I used the script of White Raven on youtube (Video named "Arma 3: Laser Designate Ai Support" link: https://www.youtube.com/watch?app=desktop&v=LmuC0ur1NyY ), though I changed the target position to be "latestSpot" variable via the spotObject script. It basically just stores the last object in the "latestSpot" variable and getting it's position with "getPosATL" function.
+Other thing I tested is adding Artillery support via trigger using radio activation. That worked on some artillery units not all. Maybe there was a problem in the code somewhere which caused some of them to not work. I used the script of White Raven on youtube (Video named "Arma 3: Laser Designate Ai Support" link: https://www.youtube.com/watch?app=desktop&v=LmuC0ur1NyY ), though I changed the target position to be "latestSpot" variable via the spotObject script. It basically just stores the last object spotted in the "latestSpot" variable and getting it's position with "getPosATL" function.
 
 ## Example pictures of the setup:
 In this example the playable object is named "me" and is just a random unit with binoculars and the script added to the init field.
