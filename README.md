@@ -9,4 +9,4 @@ Most of the scripts here are made to work with some mods and only in my own scen
 
 **Software used:** Visual Studio Code with SQF language addon.
 
-**Language used:** Almost all of the files are in SQF (Status Quo Function). 
+**Language used:** SQF (Status Quo Function). 
