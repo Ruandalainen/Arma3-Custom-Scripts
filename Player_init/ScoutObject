@@ -62,5 +62,5 @@ this addAction [
     true,
     true,
     "",
-    "cameraView == 'GUNNER' && currentWeapon me == 'Binocular' || cameraView == 'GROUP'" // "me" IS THE PLAYER OBJECTS VARIABLE NAME AND NEED TO BE CHANGED ACCORDINGLY
+    "cameraView == 'GUNNER' && currentWeapon me == 'Binocular' || cameraView == 'GROUP'" // "me" IS THE PLAYER OBJECTS VARIABLE NAME AND NEEDS TO BE CHANGED ACCORDINGLY
 ];
