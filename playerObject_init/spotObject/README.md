@@ -13,5 +13,5 @@ Like stated in the requirements section, you need to change either your playable
 
 
 ## Example pictures of the action:
-![Image showing the state before executing the action](scoutObject1.jpg)
-![Image showing the state after executing the action](scoutObject2.jpg)
+![Image showing the state before executing the action](spotObject1.jpg)
+![Image showing the state after executing the action](spotObject2.jpg)
