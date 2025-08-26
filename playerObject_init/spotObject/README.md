@@ -3,7 +3,7 @@ Adds scroll wheel menu action that let's the player to "scout" object under curs
 Uses "cursorObject", "if" statements and "titleText" to show the object that is under the cursor.
 
 ## Requirements
-Requirements to get this script to work at it's currrent state is looking through binoculars (specifically the object named "Binocular") and playable object having the variable name "me" or changed accordingly in the script.
+Requirements to get this script to work at it's current state is looking through binoculars (specifically the object named "Binocular") and playable object having the variable name "me" or changed accordingly in the script.
 
 ## How to use this script in your own scenario
 You need to copy the contents of the sqf file to the player objects init field inside of Eden editor or in the file where you initialize the playable objects.
