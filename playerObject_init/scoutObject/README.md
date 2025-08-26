@@ -1,8 +1,9 @@
 # ScoutObject
-ADDS SCROLL WHEEL MENU ACTION THAT LET'S PLAYER TO "SCOUT" OBJECT UNDER CURSOR (MIDDLE OF THE SCREEN). USES "cursorObject" AND "if" STATEMENTS.
+Adds scroll wheel menu action that let's the player to "scout" object under cursor (middle of the screen). The scouted object is generic typeOf object and is shown at the bottom of the screen.
+Uses "cursorObject" and "if" statements.
 
 ## Requirements
-REQUIREMENTS TO GET THIS SCRIPT TO WORK AT IT'S CURRENT STATE IS LOOKING THROUGH BINOCULARS (SPECIFICALLY THE OBJECT NAMED "Binocular") AND HAVING PLAYER OBJECT VARIABLE NAME "me" OR CHANGED ACCORDINGLY IN THE SCRIPT.
+Requirements to get this script to work at it's currrent state is looking through binoculars (specifically the object named "Binocular") and having player having the variable name "me" or changed accordingly in the script.
 
 ## How to use this in your own scenario
 You need to copy the contents of the sqf file to the player objects init section inside of Eden editor or in the file where you initialize the playable objects.
