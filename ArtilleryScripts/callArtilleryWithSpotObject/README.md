@@ -8,3 +8,5 @@ Originally I found this script from White Raven's Youtube channel. Here is the v
 
 * In the spotObject script:
   * Added variable latestSpot that would save the last spotted object through the spotObject script. There is more info at the spotObject script's folder.
+## Notable info
+It seems like the artillery unit won't fire out of range even without the original script's "if" statement that checked that the artillery is indeed in range.
