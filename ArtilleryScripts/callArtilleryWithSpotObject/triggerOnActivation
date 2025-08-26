@@ -1,0 +1,2 @@
+callArtillery = [gun1] execVM 'callArtillery';
+hint 'Artillery Called';
