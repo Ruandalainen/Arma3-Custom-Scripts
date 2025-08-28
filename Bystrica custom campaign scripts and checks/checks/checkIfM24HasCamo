@@ -1,0 +1,3 @@
+weapon = currentWeapon player;
+weaponaccs = player weaponAccessories primaryWeapon player;
+if (weaponaccs select 1 == 'CUP_Mxx_camo') then { titleText["WLPLEPWLE", "PLAIN", 0.5];};
